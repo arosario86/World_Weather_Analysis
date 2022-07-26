@@ -1,3 +1,11 @@
+# Adding config.py file.
+config.py
+
+# Adding additional files.
+API_practice.ipynb
+API_practice.ipynb_checkpoints
+random_checkpoints.ipynb
+random_checkpoints.ipynb_checkpoints
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
